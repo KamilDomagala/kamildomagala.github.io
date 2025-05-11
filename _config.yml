@@ -24,3 +24,9 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+title: "Kamil Domagała"
+description: "Mój blog"
+url: "https://kamildomagala.github.io"
+markdown: kramdown
+theme: jekyll-theme-hyde
