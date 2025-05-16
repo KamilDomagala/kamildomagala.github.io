@@ -1,6 +1,5 @@
----
-layout: post
-title: "Post - test"
----
 
-Post testowy
+layout: post
+title: "Test post"
+
+It`s my first post
