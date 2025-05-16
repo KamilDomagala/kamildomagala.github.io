@@ -1,6 +1,7 @@
 
+---
 layout: post
-title: "Test post"
---- 
+title: "Witaj na moim blogu"
+---
 
-It`s my first post
+To jest mój pierwszy wpis na blogu. Działa!
